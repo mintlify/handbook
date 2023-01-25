@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Mintlify Handbook",
   "logo": {
     "dark": "/logo/dark.png",
     "light": "/logo/light.png"
@@ -17,35 +17,17 @@
       "url": "https://mintlify.com/docs"
     }
   ],
-  "topbarCtaButton": {
-    "name": "Get Started",
-    "url": "https://github.com/mintlify/starter"
-  },
   "anchors": [
     {
       "name": "Engineering",
       "icon": "rectangle-terminal",
       "url": "engineering"
-    },
-    {
-      "name": "Changelog",
-      "icon": "list",
-      "url": "https://mintlify.com"
-    },
-    {
-      "name": "Community",
-      "icon": "discord",
-      "url": "https://mintlify.com/community"
     }
   ],
   "navigation": [
     {
       "group": "Home",
-      "pages": ["introduction", "development"]
-    },
-    {
-      "group": "Learn More",
-      "pages": ["features", "resources"]
+      "pages": ["index"]
     },
     {
       "group": "API Documentation",
