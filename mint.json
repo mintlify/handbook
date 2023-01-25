@@ -27,7 +27,7 @@
   "navigation": [
     {
       "group": "Home",
-      "pages": ["index"]
+      "pages": ["introduction"]
     },
     {
       "group": "API Documentation",
