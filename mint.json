@@ -30,6 +30,14 @@
       "pages": ["introduction"]
     },
     {
+      "group": "How we work",
+      "pages": ["how-we-work/culture", "how-we-work/values"]
+    },
+    {
+      "group": "People & Ops",
+      "pages": ["people/hiring"]
+    },
+    {
       "group": "API Documentation",
       "pages": ["engineering/authentication"]
     }
