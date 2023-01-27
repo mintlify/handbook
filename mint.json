@@ -27,7 +27,7 @@
   "navigation": [
     {
       "group": "Home",
-      "pages": ["introduction"]
+      "pages": ["introduction", "vision"]
     },
     {
       "group": "How we work",
